@@ -1,6 +1,6 @@
 ### <h1>Hi, I am Saadat</h1>
  <h2></h2>
- <h3>A Security Practitioner Geared To Building Robust Cloud Security Solutions</h3>
+ <h3>A Security Practitioner Geared To Building Robust Cyber Security Solutions</h3>
 
 
 
